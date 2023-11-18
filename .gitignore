@@ -1,3 +1,9 @@
+tmdb_5000_credits.csv
+tmdb_5000_movies.csv
+
+# .gitignore
+renv/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
